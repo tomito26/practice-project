@@ -12,4 +12,4 @@ It can be accessed by forking and cloning
 ### License and Copyright
 Copyright (c) 2020 Thomas Khaemba
 
-Licensed under[MIT][(LICENSE)
+Licensed under [MIT](LICENSE)
